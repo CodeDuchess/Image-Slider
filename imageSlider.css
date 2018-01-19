@@ -1,0 +1,27 @@
+#btn1 {
+/* space inside the element */	
+padding: 10px;
+/* to get round corners */
+border-radius: 30px;
+background-color: #387f6c;
+
+}
+
+#btnr {
+padding: 10px;
+border-radius: 30px;
+background-color: #387f6c;
+
+}
+
+img {
+width: 958px;
+height: 578px;
+
+}
+
+.wrapper {
+/* main slider */	
+margin-left: 100px;
+
+}
